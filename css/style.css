@@ -155,7 +155,7 @@ header.container .nav-btn {
   -webkit-transform: rotateY(-180deg);
           transform: rotateY(-180deg);
   width: calc(568px / 12);
-  position: absolute;
+  position: fixed;
   right: 20px;
   z-index: 2;
 }
